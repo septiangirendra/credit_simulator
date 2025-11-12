@@ -1,6 +1,6 @@
 # credit_simulator
 
-Aplikasi credit_simulator ini dibuat dengan menggunakan bahasa pemrograman python.
+Aplikasi credit_simulator ini dibuat dengan menggunakan bahasa pemrograman java.
 Berikut langkah - langkah untuk menjalankan aplikasi credit_simulator
 
 PENGGUNA WINDOWS
